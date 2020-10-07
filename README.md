@@ -1,5 +1,8 @@
 # ComputerNetworksLab 
-
+Excercise -1:
+  =>CNEX1.pdf
+  
+  
 Excercise -2: Client Server Image transfer 
   =>client.java 
   =>server.java 
